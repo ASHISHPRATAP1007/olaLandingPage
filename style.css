@@ -189,3 +189,20 @@ body{
     font-size: 20px;
     font-weight: 600;
 }
+.specification{
+    position: relative;
+    right: 5vw;
+    bottom: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:60vh;
+    border-radius: 10vh;
+    background-color: grey;
+    gap: 20px;
+    padding: 5px;
+}
+.specification span{
+    column-rule-color: red;
+    font-weight: 600;
+}
